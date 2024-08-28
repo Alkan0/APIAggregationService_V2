@@ -1,0 +1,671 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Alkinoos\\APIAggregationService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7509A8A-C5C7-4CF8-86D3-977E02DE2C54}|APIAggregationService.csproj|c:\\alkinoos\\apiaggregationservice\\services\\cat\\breedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7509A8A-C5C7-4CF8-86D3-977E02DE2C54}|APIAggregationService.csproj|solutionrelative:services\\cat\\breedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7509A8A-C5C7-4CF8-86D3-977E02DE2C54}|APIAggregationService.csproj|c:\\alkinoos\\apiaggregationservice\\services\\openweathermap\\openweathermapservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7509A8A-C5C7-4CF8-86D3-977E02DE2C54}|APIAggregationService.csproj|solutionrelative:services\\openweathermap\\openweathermapservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7509A8A-C5C7-4CF8-86D3-977E02DE2C54}|APIAggregationService.csproj|c:\\alkinoos\\apiaggregationservice\\controllers\\openweathermapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7509A8A-C5C7-4CF8-86D3-977E02DE2C54}|APIAggregationService.csproj|solutionrelative:controllers\\openweathermapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7509A8A-C5C7-4CF8-86D3-977E02DE2C54}|APIAggregationService.csproj|c:\\alkinoos\\apiaggregationservice\\services\\spotify\\spotifyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7509A8A-C5C7-4CF8-86D3-977E02DE2C54}|APIAggregationService.csproj|solutionrelative:services\\spotify\\spotifyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7509A8A-C5C7-4CF8-86D3-977E02DE2C54}|APIAggregationService.csproj|c:\\alkinoos\\apiaggregationservice\\services\\spotify\\ispotifyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7509A8A-C5C7-4CF8-86D3-977E02DE2C54}|APIAggregationService.csproj|solutionrelative:services\\spotify\\ispotifyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7509A8A-C5C7-4CF8-86D3-977E02DE2C54}|APIAggregationService.csproj|c:\\alkinoos\\apiaggregationservice\\controllers\\spotifycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7509A8A-C5C7-4CF8-86D3-977E02DE2C54}|APIAggregationService.csproj|solutionrelative:controllers\\spotifycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7509A8A-C5C7-4CF8-86D3-977E02DE2C54}|APIAggregationService.csproj|c:\\alkinoos\\apiaggregationservice\\controllers\\catscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7509A8A-C5C7-4CF8-86D3-977E02DE2C54}|APIAggregationService.csproj|solutionrelative:controllers\\catscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7509A8A-C5C7-4CF8-86D3-977E02DE2C54}|APIAggregationService.csproj|c:\\alkinoos\\apiaggregationservice\\models\\dtos\\aggregateddatadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7509A8A-C5C7-4CF8-86D3-977E02DE2C54}|APIAggregationService.csproj|solutionrelative:models\\dtos\\aggregateddatadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7509A8A-C5C7-4CF8-86D3-977E02DE2C54}|APIAggregationService.csproj|c:\\alkinoos\\apiaggregationservice\\models\\dtos\\catdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7509A8A-C5C7-4CF8-86D3-977E02DE2C54}|APIAggregationService.csproj|solutionrelative:models\\dtos\\catdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7509A8A-C5C7-4CF8-86D3-977E02DE2C54}|APIAggregationService.csproj|c:\\alkinoos\\apiaggregationservice\\apiaggregationservice.tests\\controllers\\catscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7509A8A-C5C7-4CF8-86D3-977E02DE2C54}|APIAggregationService.csproj|solutionrelative:apiaggregationservice.tests\\controllers\\catscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7509A8A-C5C7-4CF8-86D3-977E02DE2C54}|APIAggregationService.csproj|c:\\alkinoos\\apiaggregationservice\\apiaggregationservice.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{A7509A8A-C5C7-4CF8-86D3-977E02DE2C54}|APIAggregationService.csproj|solutionrelative:apiaggregationservice.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7509A8A-C5C7-4CF8-86D3-977E02DE2C54}|APIAggregationService.csproj|c:\\alkinoos\\apiaggregationservice\\models\\dtos\\albumdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7509A8A-C5C7-4CF8-86D3-977E02DE2C54}|APIAggregationService.csproj|solutionrelative:models\\dtos\\albumdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7509A8A-C5C7-4CF8-86D3-977E02DE2C54}|APIAggregationService.csproj|c:\\alkinoos\\apiaggregationservice\\models\\dtos\\spotifydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7509A8A-C5C7-4CF8-86D3-977E02DE2C54}|APIAggregationService.csproj|solutionrelative:models\\dtos\\spotifydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7509A8A-C5C7-4CF8-86D3-977E02DE2C54}|APIAggregationService.csproj|c:\\alkinoos\\apiaggregationservice\\models\\dtos\\trackdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7509A8A-C5C7-4CF8-86D3-977E02DE2C54}|APIAggregationService.csproj|solutionrelative:models\\dtos\\trackdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7509A8A-C5C7-4CF8-86D3-977E02DE2C54}|APIAggregationService.csproj|c:\\alkinoos\\apiaggregationservice\\models\\dtos\\weatherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7509A8A-C5C7-4CF8-86D3-977E02DE2C54}|APIAggregationService.csproj|solutionrelative:models\\dtos\\weatherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7509A8A-C5C7-4CF8-86D3-977E02DE2C54}|APIAggregationService.csproj|c:\\alkinoos\\apiaggregationservice\\models\\breed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7509A8A-C5C7-4CF8-86D3-977E02DE2C54}|APIAggregationService.csproj|solutionrelative:models\\breed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7509A8A-C5C7-4CF8-86D3-977E02DE2C54}|APIAggregationService.csproj|c:\\alkinoos\\apiaggregationservice\\models\\favorite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7509A8A-C5C7-4CF8-86D3-977E02DE2C54}|APIAggregationService.csproj|solutionrelative:models\\favorite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7509A8A-C5C7-4CF8-86D3-977E02DE2C54}|APIAggregationService.csproj|c:\\alkinoos\\apiaggregationservice\\models\\spotifytokenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7509A8A-C5C7-4CF8-86D3-977E02DE2C54}|APIAggregationService.csproj|solutionrelative:models\\spotifytokenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7509A8A-C5C7-4CF8-86D3-977E02DE2C54}|APIAggregationService.csproj|c:\\alkinoos\\apiaggregationservice\\models\\weatherdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7509A8A-C5C7-4CF8-86D3-977E02DE2C54}|APIAggregationService.csproj|solutionrelative:models\\weatherdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7509A8A-C5C7-4CF8-86D3-977E02DE2C54}|APIAggregationService.csproj|c:\\alkinoos\\apiaggregationservice\\models\\vote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7509A8A-C5C7-4CF8-86D3-977E02DE2C54}|APIAggregationService.csproj|solutionrelative:models\\vote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7509A8A-C5C7-4CF8-86D3-977E02DE2C54}|APIAggregationService.csproj|c:\\alkinoos\\apiaggregationservice\\services\\requeststatisticsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7509A8A-C5C7-4CF8-86D3-977E02DE2C54}|APIAggregationService.csproj|solutionrelative:services\\requeststatisticsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7509A8A-C5C7-4CF8-86D3-977E02DE2C54}|APIAggregationService.csproj|c:\\alkinoos\\apiaggregationservice\\apiaggregationservice.tests\\controllers\\spotifycontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7509A8A-C5C7-4CF8-86D3-977E02DE2C54}|APIAggregationService.csproj|solutionrelative:apiaggregationservice.tests\\controllers\\spotifycontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7509A8A-C5C7-4CF8-86D3-977E02DE2C54}|APIAggregationService.csproj|c:\\alkinoos\\apiaggregationservice\\apiaggregationservice.tests\\services\\spotfyservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7509A8A-C5C7-4CF8-86D3-977E02DE2C54}|APIAggregationService.csproj|solutionrelative:apiaggregationservice.tests\\services\\spotfyservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7509A8A-C5C7-4CF8-86D3-977E02DE2C54}|APIAggregationService.csproj|c:\\alkinoos\\apiaggregationservice\\apiaggregationservice.tests\\services\\requeststatisticsservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7509A8A-C5C7-4CF8-86D3-977E02DE2C54}|APIAggregationService.csproj|solutionrelative:apiaggregationservice.tests\\services\\requeststatisticsservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7509A8A-C5C7-4CF8-86D3-977E02DE2C54}|APIAggregationService.csproj|c:\\alkinoos\\apiaggregationservice\\apiaggregationservice.tests\\services\\opentweatherservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7509A8A-C5C7-4CF8-86D3-977E02DE2C54}|APIAggregationService.csproj|solutionrelative:apiaggregationservice.tests\\services\\opentweatherservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7509A8A-C5C7-4CF8-86D3-977E02DE2C54}|APIAggregationService.csproj|c:\\alkinoos\\apiaggregationservice\\apiaggregationservice.tests\\services\\catservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7509A8A-C5C7-4CF8-86D3-977E02DE2C54}|APIAggregationService.csproj|solutionrelative:apiaggregationservice.tests\\services\\catservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7509A8A-C5C7-4CF8-86D3-977E02DE2C54}|APIAggregationService.csproj|c:\\alkinoos\\apiaggregationservice\\apiaggregationservice.tests\\services\\breedservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7509A8A-C5C7-4CF8-86D3-977E02DE2C54}|APIAggregationService.csproj|solutionrelative:apiaggregationservice.tests\\services\\breedservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7509A8A-C5C7-4CF8-86D3-977E02DE2C54}|APIAggregationService.csproj|c:\\alkinoos\\apiaggregationservice\\apiaggregationservice.tests\\controllers\\openweathermapcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7509A8A-C5C7-4CF8-86D3-977E02DE2C54}|APIAggregationService.csproj|solutionrelative:apiaggregationservice.tests\\controllers\\openweathermapcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7509A8A-C5C7-4CF8-86D3-977E02DE2C54}|APIAggregationService.csproj|c:\\alkinoos\\apiaggregationservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7509A8A-C5C7-4CF8-86D3-977E02DE2C54}|APIAggregationService.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7509A8A-C5C7-4CF8-86D3-977E02DE2C54}|APIAggregationService.csproj|c:\\alkinoos\\apiaggregationservice\\services\\cat\\ifavoriteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7509A8A-C5C7-4CF8-86D3-977E02DE2C54}|APIAggregationService.csproj|solutionrelative:services\\cat\\ifavoriteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7509A8A-C5C7-4CF8-86D3-977E02DE2C54}|APIAggregationService.csproj|c:\\alkinoos\\apiaggregationservice\\services\\cat\\favoriteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7509A8A-C5C7-4CF8-86D3-977E02DE2C54}|APIAggregationService.csproj|solutionrelative:services\\cat\\favoriteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7509A8A-C5C7-4CF8-86D3-977E02DE2C54}|APIAggregationService.csproj|c:\\alkinoos\\apiaggregationservice\\services\\cat\\ivoteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7509A8A-C5C7-4CF8-86D3-977E02DE2C54}|APIAggregationService.csproj|solutionrelative:services\\cat\\ivoteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7509A8A-C5C7-4CF8-86D3-977E02DE2C54}|APIAggregationService.csproj|c:\\alkinoos\\apiaggregationservice\\services\\cat\\voteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7509A8A-C5C7-4CF8-86D3-977E02DE2C54}|APIAggregationService.csproj|solutionrelative:services\\cat\\voteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7509A8A-C5C7-4CF8-86D3-977E02DE2C54}|APIAggregationService.csproj|c:\\alkinoos\\apiaggregationservice\\services\\cat\\catservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7509A8A-C5C7-4CF8-86D3-977E02DE2C54}|APIAggregationService.csproj|solutionrelative:services\\cat\\catservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7509A8A-C5C7-4CF8-86D3-977E02DE2C54}|APIAggregationService.csproj|c:\\alkinoos\\apiaggregationservice\\services\\cat\\ibreedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7509A8A-C5C7-4CF8-86D3-977E02DE2C54}|APIAggregationService.csproj|solutionrelative:services\\cat\\ibreedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7509A8A-C5C7-4CF8-86D3-977E02DE2C54}|APIAggregationService.csproj|c:\\alkinoos\\apiaggregationservice\\services\\cat\\icatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7509A8A-C5C7-4CF8-86D3-977E02DE2C54}|APIAggregationService.csproj|solutionrelative:services\\cat\\icatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7509A8A-C5C7-4CF8-86D3-977E02DE2C54}|APIAggregationService.csproj|c:\\alkinoos\\apiaggregationservice\\services\\openweathermap\\iopenweathermapservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7509A8A-C5C7-4CF8-86D3-977E02DE2C54}|APIAggregationService.csproj|solutionrelative:services\\openweathermap\\iopenweathermapservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7509A8A-C5C7-4CF8-86D3-977E02DE2C54}|APIAggregationService.csproj|c:\\alkinoos\\apiaggregationservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A7509A8A-C5C7-4CF8-86D3-977E02DE2C54}|APIAggregationService.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WeatherDto.cs",
+              "DocumentMoniker": "C:\\Alkinoos\\APIAggregationService\\Models\\Dtos\\WeatherDto.cs",
+              "RelativeDocumentMoniker": "Models\\Dtos\\WeatherDto.cs",
+              "ToolTip": "C:\\Alkinoos\\APIAggregationService\\Models\\Dtos\\WeatherDto.cs",
+              "RelativeToolTip": "Models\\Dtos\\WeatherDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T11:22:54.429Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OpenWeatherMapController.cs",
+              "DocumentMoniker": "C:\\Alkinoos\\APIAggregationService\\Controllers\\OpenWeatherMapController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OpenWeatherMapController.cs",
+              "ToolTip": "C:\\Alkinoos\\APIAggregationService\\Controllers\\OpenWeatherMapController.cs",
+              "RelativeToolTip": "Controllers\\OpenWeatherMapController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T20:15:28.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ISpotifyService.cs",
+              "DocumentMoniker": "C:\\Alkinoos\\APIAggregationService\\Services\\Spotify\\ISpotifyService.cs",
+              "RelativeDocumentMoniker": "Services\\Spotify\\ISpotifyService.cs",
+              "ToolTip": "C:\\Alkinoos\\APIAggregationService\\Services\\Spotify\\ISpotifyService.cs",
+              "RelativeToolTip": "Services\\Spotify\\ISpotifyService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T20:32:23.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SpotifyService.cs",
+              "DocumentMoniker": "C:\\Alkinoos\\APIAggregationService\\Services\\Spotify\\SpotifyService.cs",
+              "RelativeDocumentMoniker": "Services\\Spotify\\SpotifyService.cs",
+              "ToolTip": "C:\\Alkinoos\\APIAggregationService\\Services\\Spotify\\SpotifyService.cs",
+              "RelativeToolTip": "Services\\Spotify\\SpotifyService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T06:33:05.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OpenWeatherMapService.cs",
+              "DocumentMoniker": "C:\\Alkinoos\\APIAggregationService\\Services\\OpenWeatherMap\\OpenWeatherMapService.cs",
+              "RelativeDocumentMoniker": "Services\\OpenWeatherMap\\OpenWeatherMapService.cs",
+              "ToolTip": "C:\\Alkinoos\\APIAggregationService\\Services\\OpenWeatherMap\\OpenWeatherMapService.cs*",
+              "RelativeToolTip": "Services\\OpenWeatherMap\\OpenWeatherMapService.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T20:17:00.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BreedService.cs",
+              "DocumentMoniker": "C:\\Alkinoos\\APIAggregationService\\Services\\Cat\\BreedService.cs",
+              "RelativeDocumentMoniker": "Services\\Cat\\BreedService.cs",
+              "ToolTip": "C:\\Alkinoos\\APIAggregationService\\Services\\Cat\\BreedService.cs",
+              "RelativeToolTip": "Services\\Cat\\BreedService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T20:40:23.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SpotifyController.cs",
+              "DocumentMoniker": "C:\\Alkinoos\\APIAggregationService\\Controllers\\SpotifyController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SpotifyController.cs",
+              "ToolTip": "C:\\Alkinoos\\APIAggregationService\\Controllers\\SpotifyController.cs",
+              "RelativeToolTip": "Controllers\\SpotifyController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T20:16:06.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CatsController.cs",
+              "DocumentMoniker": "C:\\Alkinoos\\APIAggregationService\\Controllers\\CatsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CatsController.cs",
+              "ToolTip": "C:\\Alkinoos\\APIAggregationService\\Controllers\\CatsController.cs",
+              "RelativeToolTip": "Controllers\\CatsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T20:33:55.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AggregatedDataDto.cs",
+              "DocumentMoniker": "C:\\Alkinoos\\APIAggregationService\\Models\\Dtos\\AggregatedDataDto.cs",
+              "RelativeDocumentMoniker": "Models\\Dtos\\AggregatedDataDto.cs",
+              "ToolTip": "C:\\Alkinoos\\APIAggregationService\\Models\\Dtos\\AggregatedDataDto.cs",
+              "RelativeToolTip": "Models\\Dtos\\AggregatedDataDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T06:47:29.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CatDto.cs",
+              "DocumentMoniker": "C:\\Alkinoos\\APIAggregationService\\Models\\Dtos\\CatDto.cs",
+              "RelativeDocumentMoniker": "Models\\Dtos\\CatDto.cs",
+              "ToolTip": "C:\\Alkinoos\\APIAggregationService\\Models\\Dtos\\CatDto.cs",
+              "RelativeToolTip": "Models\\Dtos\\CatDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T20:29:15.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CatsControllerTests.cs",
+              "DocumentMoniker": "C:\\Alkinoos\\APIAggregationService\\APIAggregationService.Tests\\Controllers\\CatsControllerTests.cs",
+              "RelativeDocumentMoniker": "APIAggregationService.Tests\\Controllers\\CatsControllerTests.cs",
+              "ToolTip": "C:\\Alkinoos\\APIAggregationService\\APIAggregationService.Tests\\Controllers\\CatsControllerTests.cs",
+              "RelativeToolTip": "APIAggregationService.Tests\\Controllers\\CatsControllerTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T06:17:47.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "APIAggregationService",
+              "DocumentMoniker": "C:\\Alkinoos\\APIAggregationService\\APIAggregationService.csproj",
+              "RelativeDocumentMoniker": "APIAggregationService.csproj",
+              "ToolTip": "C:\\Alkinoos\\APIAggregationService\\APIAggregationService.csproj",
+              "RelativeToolTip": "APIAggregationService.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-28T07:05:29.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AlbumDto.cs",
+              "DocumentMoniker": "C:\\Alkinoos\\APIAggregationService\\Models\\Dtos\\AlbumDto.cs",
+              "RelativeDocumentMoniker": "Models\\Dtos\\AlbumDto.cs",
+              "ToolTip": "C:\\Alkinoos\\APIAggregationService\\Models\\Dtos\\AlbumDto.cs",
+              "RelativeToolTip": "Models\\Dtos\\AlbumDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T06:39:55.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SpotifyDto.cs",
+              "DocumentMoniker": "C:\\Alkinoos\\APIAggregationService\\Models\\Dtos\\SpotifyDto.cs",
+              "RelativeDocumentMoniker": "Models\\Dtos\\SpotifyDto.cs",
+              "ToolTip": "C:\\Alkinoos\\APIAggregationService\\Models\\Dtos\\SpotifyDto.cs",
+              "RelativeToolTip": "Models\\Dtos\\SpotifyDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T20:36:25.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TrackDto.cs",
+              "DocumentMoniker": "C:\\Alkinoos\\APIAggregationService\\Models\\Dtos\\TrackDto.cs",
+              "RelativeDocumentMoniker": "Models\\Dtos\\TrackDto.cs",
+              "ToolTip": "C:\\Alkinoos\\APIAggregationService\\Models\\Dtos\\TrackDto.cs",
+              "RelativeToolTip": "Models\\Dtos\\TrackDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T20:36:26.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Breed.cs",
+              "DocumentMoniker": "C:\\Alkinoos\\APIAggregationService\\Models\\Breed.cs",
+              "RelativeDocumentMoniker": "Models\\Breed.cs",
+              "ToolTip": "C:\\Alkinoos\\APIAggregationService\\Models\\Breed.cs",
+              "RelativeToolTip": "Models\\Breed.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T20:38:13.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Favorite.cs",
+              "DocumentMoniker": "C:\\Alkinoos\\APIAggregationService\\Models\\Favorite.cs",
+              "RelativeDocumentMoniker": "Models\\Favorite.cs",
+              "ToolTip": "C:\\Alkinoos\\APIAggregationService\\Models\\Favorite.cs",
+              "RelativeToolTip": "Models\\Favorite.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T20:50:25.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SpotifyTokenResponse.cs",
+              "DocumentMoniker": "C:\\Alkinoos\\APIAggregationService\\Models\\SpotifyTokenResponse.cs",
+              "RelativeDocumentMoniker": "Models\\SpotifyTokenResponse.cs",
+              "ToolTip": "C:\\Alkinoos\\APIAggregationService\\Models\\SpotifyTokenResponse.cs",
+              "RelativeToolTip": "Models\\SpotifyTokenResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T06:39:21.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "WeatherData.cs",
+              "DocumentMoniker": "C:\\Alkinoos\\APIAggregationService\\Models\\WeatherData.cs",
+              "RelativeDocumentMoniker": "Models\\WeatherData.cs",
+              "ToolTip": "C:\\Alkinoos\\APIAggregationService\\Models\\WeatherData.cs",
+              "RelativeToolTip": "Models\\WeatherData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T06:51:42.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RequestStatisticsService.cs",
+              "DocumentMoniker": "C:\\Alkinoos\\APIAggregationService\\Services\\RequestStatisticsService.cs",
+              "RelativeDocumentMoniker": "Services\\RequestStatisticsService.cs",
+              "ToolTip": "C:\\Alkinoos\\APIAggregationService\\Services\\RequestStatisticsService.cs",
+              "RelativeToolTip": "Services\\RequestStatisticsService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T06:19:47.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Vote.cs",
+              "DocumentMoniker": "C:\\Alkinoos\\APIAggregationService\\Models\\Vote.cs",
+              "RelativeDocumentMoniker": "Models\\Vote.cs",
+              "ToolTip": "C:\\Alkinoos\\APIAggregationService\\Models\\Vote.cs",
+              "RelativeToolTip": "Models\\Vote.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T20:50:02.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SpotifyControllerTests.cs",
+              "DocumentMoniker": "C:\\Alkinoos\\APIAggregationService\\APIAggregationService.Tests\\Controllers\\SpotifyControllerTests.cs",
+              "RelativeDocumentMoniker": "APIAggregationService.Tests\\Controllers\\SpotifyControllerTests.cs",
+              "ToolTip": "C:\\Alkinoos\\APIAggregationService\\APIAggregationService.Tests\\Controllers\\SpotifyControllerTests.cs",
+              "RelativeToolTip": "APIAggregationService.Tests\\Controllers\\SpotifyControllerTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T06:35:17.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SpotfyServiceTests.cs",
+              "DocumentMoniker": "C:\\Alkinoos\\APIAggregationService\\APIAggregationService.Tests\\Services\\SpotfyServiceTests.cs",
+              "RelativeDocumentMoniker": "APIAggregationService.Tests\\Services\\SpotfyServiceTests.cs",
+              "ToolTip": "C:\\Alkinoos\\APIAggregationService\\APIAggregationService.Tests\\Services\\SpotfyServiceTests.cs",
+              "RelativeToolTip": "APIAggregationService.Tests\\Services\\SpotfyServiceTests.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAewF0AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T06:36:02.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RequestStatisticsServiceTests.cs",
+              "DocumentMoniker": "C:\\Alkinoos\\APIAggregationService\\APIAggregationService.Tests\\Services\\RequestStatisticsServiceTests.cs",
+              "RelativeDocumentMoniker": "APIAggregationService.Tests\\Services\\RequestStatisticsServiceTests.cs",
+              "ToolTip": "C:\\Alkinoos\\APIAggregationService\\APIAggregationService.Tests\\Services\\RequestStatisticsServiceTests.cs",
+              "RelativeToolTip": "APIAggregationService.Tests\\Services\\RequestStatisticsServiceTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T06:16:50.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "OpentWeatherServiceTests.cs",
+              "DocumentMoniker": "C:\\Alkinoos\\APIAggregationService\\APIAggregationService.Tests\\Services\\OpentWeatherServiceTests.cs",
+              "RelativeDocumentMoniker": "APIAggregationService.Tests\\Services\\OpentWeatherServiceTests.cs",
+              "ToolTip": "C:\\Alkinoos\\APIAggregationService\\APIAggregationService.Tests\\Services\\OpentWeatherServiceTests.cs",
+              "RelativeToolTip": "APIAggregationService.Tests\\Services\\OpentWeatherServiceTests.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwCAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T06:29:24.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CatServiceTests.cs",
+              "DocumentMoniker": "C:\\Alkinoos\\APIAggregationService\\APIAggregationService.Tests\\Services\\CatServiceTests.cs",
+              "RelativeDocumentMoniker": "APIAggregationService.Tests\\Services\\CatServiceTests.cs",
+              "ToolTip": "C:\\Alkinoos\\APIAggregationService\\APIAggregationService.Tests\\Services\\CatServiceTests.cs",
+              "RelativeToolTip": "APIAggregationService.Tests\\Services\\CatServiceTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T06:08:41.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BreedServiceTests.cs",
+              "DocumentMoniker": "C:\\Alkinoos\\APIAggregationService\\APIAggregationService.Tests\\Services\\BreedServiceTests.cs",
+              "RelativeDocumentMoniker": "APIAggregationService.Tests\\Services\\BreedServiceTests.cs",
+              "ToolTip": "C:\\Alkinoos\\APIAggregationService\\APIAggregationService.Tests\\Services\\BreedServiceTests.cs*",
+              "RelativeToolTip": "APIAggregationService.Tests\\Services\\BreedServiceTests.cs*",
+              "ViewState": "AQIAADAAAAAAAAAAAAAYwEcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T06:10:22.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "OpenWeatherMapControllerTests.cs",
+              "DocumentMoniker": "C:\\Alkinoos\\APIAggregationService\\APIAggregationService.Tests\\Controllers\\OpenWeatherMapControllerTests.cs",
+              "RelativeDocumentMoniker": "APIAggregationService.Tests\\Controllers\\OpenWeatherMapControllerTests.cs",
+              "ToolTip": "C:\\Alkinoos\\APIAggregationService\\APIAggregationService.Tests\\Controllers\\OpenWeatherMapControllerTests.cs",
+              "RelativeToolTip": "APIAggregationService.Tests\\Controllers\\OpenWeatherMapControllerTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T06:30:43.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "VoteService.cs",
+              "DocumentMoniker": "C:\\Alkinoos\\APIAggregationService\\Services\\Cat\\VoteService.cs",
+              "RelativeDocumentMoniker": "Services\\Cat\\VoteService.cs",
+              "ToolTip": "C:\\Alkinoos\\APIAggregationService\\Services\\Cat\\VoteService.cs",
+              "RelativeToolTip": "Services\\Cat\\VoteService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T20:49:02.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Alkinoos\\APIAggregationService\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Alkinoos\\APIAggregationService\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T19:17:42.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IFavoriteService.cs",
+              "DocumentMoniker": "C:\\Alkinoos\\APIAggregationService\\Services\\Cat\\IFavoriteService.cs",
+              "RelativeDocumentMoniker": "Services\\Cat\\IFavoriteService.cs",
+              "ToolTip": "C:\\Alkinoos\\APIAggregationService\\Services\\Cat\\IFavoriteService.cs",
+              "RelativeToolTip": "Services\\Cat\\IFavoriteService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T20:51:10.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FavoriteService.cs",
+              "DocumentMoniker": "C:\\Alkinoos\\APIAggregationService\\Services\\Cat\\FavoriteService.cs",
+              "RelativeDocumentMoniker": "Services\\Cat\\FavoriteService.cs",
+              "ToolTip": "C:\\Alkinoos\\APIAggregationService\\Services\\Cat\\FavoriteService.cs",
+              "RelativeToolTip": "Services\\Cat\\FavoriteService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T20:50:43.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IVoteService.cs",
+              "DocumentMoniker": "C:\\Alkinoos\\APIAggregationService\\Services\\Cat\\IVoteService.cs",
+              "RelativeDocumentMoniker": "Services\\Cat\\IVoteService.cs",
+              "ToolTip": "C:\\Alkinoos\\APIAggregationService\\Services\\Cat\\IVoteService.cs",
+              "RelativeToolTip": "Services\\Cat\\IVoteService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T20:49:36.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ICatService.cs",
+              "DocumentMoniker": "C:\\Alkinoos\\APIAggregationService\\Services\\Cat\\ICatService.cs",
+              "RelativeDocumentMoniker": "Services\\Cat\\ICatService.cs",
+              "ToolTip": "C:\\Alkinoos\\APIAggregationService\\Services\\Cat\\ICatService.cs",
+              "RelativeToolTip": "Services\\Cat\\ICatService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T20:34:41.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CatService.cs",
+              "DocumentMoniker": "C:\\Alkinoos\\APIAggregationService\\Services\\Cat\\CatService.cs",
+              "RelativeDocumentMoniker": "Services\\Cat\\CatService.cs",
+              "ToolTip": "C:\\Alkinoos\\APIAggregationService\\Services\\Cat\\CatService.cs",
+              "RelativeToolTip": "Services\\Cat\\CatService.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAEwAwAAABwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T20:30:02.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IBreedService.cs",
+              "DocumentMoniker": "C:\\Alkinoos\\APIAggregationService\\Services\\Cat\\IBreedService.cs",
+              "RelativeDocumentMoniker": "Services\\Cat\\IBreedService.cs",
+              "ToolTip": "C:\\Alkinoos\\APIAggregationService\\Services\\Cat\\IBreedService.cs",
+              "RelativeToolTip": "Services\\Cat\\IBreedService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T20:40:33.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IOpenWeatherMapService.cs",
+              "DocumentMoniker": "C:\\Alkinoos\\APIAggregationService\\Services\\OpenWeatherMap\\IOpenWeatherMapService.cs",
+              "RelativeDocumentMoniker": "Services\\OpenWeatherMap\\IOpenWeatherMapService.cs",
+              "ToolTip": "C:\\Alkinoos\\APIAggregationService\\Services\\OpenWeatherMap\\IOpenWeatherMapService.cs",
+              "RelativeToolTip": "Services\\OpenWeatherMap\\IOpenWeatherMapService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T20:16:52.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Alkinoos\\APIAggregationService\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Alkinoos\\APIAggregationService\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-27T19:37:35.886Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 10,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
