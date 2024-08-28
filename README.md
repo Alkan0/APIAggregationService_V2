@@ -5,15 +5,15 @@ This project is an ASP.NET Core Web API application built with .NET 8.0. It inte
 
 # Features
 
-    Cat API Integration:
+- Cat API Integration:
         Fetch random cat images.
         Retrieve a list of cat breeds.
         Add or remove favorite cat images.
 
-    Weather API Integration:
+  - Weather API Integration:
         Fetch weather information based on city names using OpenWeatherMap.
 
-    Spotify API Integration:
+  - Spotify API Integration:
         Get track details.
         Get album details.
         Retrieve playlist tracks.
@@ -83,7 +83,7 @@ This project is an ASP.NET Core Web API application built with .NET 8.0. It inte
     dotnet build
     dotnet run
 
-    Access the Endpoints
+### Access the Endpoints
 
         Cat Images: GET /api/cats/images
 
