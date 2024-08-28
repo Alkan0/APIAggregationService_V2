@@ -44,9 +44,10 @@
       Retrieves weather information for the specified city.
 
 ## Spotify Controller
+### The base-62 identifier found at the end of the Spotify or an artist, track, album, playlist, etc. 
 
   - Get Track Details
-    - GET /api/spotify/track/{trackId}
+    - GET /api/spotify/track/{trackId} 
       Retrieves details of a specific track.
 
   - Get Album Details
