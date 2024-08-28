@@ -33,29 +33,29 @@
     - POST /api/cats/favorites?imageId={imageId}&userId={userId}
       Adds a cat image to the user's favorites.
 
-    - Remove a Favorite Cat
-        DELETE /api/cats/favorites/{favoriteId}
-        Removes a cat image from the user's favorites.
+  - Remove a Favorite Cat
+    - DELETE /api/cats/favorites/{favoriteId}
+      Removes a cat image from the user's favorites.
 
 ### OpenWeatherMap Controller
 
-    Fetch Weather Information
-        GET /api/openweathermap/{city}
-        Retrieves weather information for the specified city.
+  - Fetch Weather Information
+    - GET /api/openweathermap/{city}
+      Retrieves weather information for the specified city.
 
 ## Spotify Controller
 
-    - Get Track Details
-        GET /api/spotify/track/{trackId}
-        Retrieves details of a specific track.
+  - Get Track Details
+    - GET /api/spotify/track/{trackId}
+      Retrieves details of a specific track.
 
-    - Get Album Details
-        GET /api/spotify/album/{albumId}
-        Retrieves details of a specific album.
+  - Get Album Details
+    - GET /api/spotify/album/{albumId}
+      Retrieves details of a specific album.
 
-    - Get Playlist Tracks
-        GET /api/spotify/playlist/{playlistId}
-        Retrieves tracks from a specific playlist.
+  - Get Playlist Tracks
+    - GET /api/spotify/playlist/{playlistId}
+      Retrieves tracks from a specific playlist.
 
 ## Getting Started
 ### Prerequisites
