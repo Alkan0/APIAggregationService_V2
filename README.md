@@ -61,8 +61,48 @@ This project is an ASP.NET Core Web API application built with .NET 8.0. It inte
 # Prerequisites
 
     .NET 8.0 SDK
-    API keys for Spotify, OpenWeatherMap and for the Cat API
-    
-# Installation    
-    git clone https://github.com/Alkan0/APIAggregationService_V2.git
-    cd APIAggregationService_V2
+    API keys for Spotify, OpenWeatherMap, and any required services for the Cat API
+
+# Installation
+
+    Clone the Repository
+        git clone https://github.com/yourusername/your-repo-name.git
+        cd your-repo-name
+
+# Install Dependencies
+
+    Restore the NuGet packages:
+        dotnet restore
+
+    Configuration
+        Update the Program.cs file with your API keys.
+        Configure the API keys for Spotify, OpenWeatherMap, and other required services.
+
+# Running the Application locally
+
+    dotnet build
+    dotnet run
+
+    Access the Endpoints
+
+        Cat Images: GET /api/cats/images
+
+        Breeds: GET /api/cats/breeds
+
+        Add Favorite: POST /api/cats/favorites?imageId={imageId}&userId={userId}
+
+        Remove Favorite: DELETE /api/cats/favorites/{favoriteId}
+
+        Weather Information: GET /api/openweathermap/{city}
+
+        Track Details: GET /api/spotify/track/{trackId}
+
+        Album Details: GET /api/spotify/album/{albumId}
+
+        Playlist Tracks: GET /api/spotify/playlist/{playlistId}
+
+# Contributing
+
+Feel free to submit issues or pull requests. 
+
+This project is licensed under the MIT License - see the LICENSE file for details.
