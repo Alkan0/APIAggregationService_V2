@@ -21,17 +21,17 @@
 ## API Endpoints
 ### Cat Controller
 
-    - Fetch Random Cat Images
-        GET /api/cats/images
-        Returns a list of random cat images.
+  - Fetch Random Cat Images
+    - GET /api/cats/images
+      Returns a list of random cat images.
 
-    - Fetch All Breeds
-        GET /api/cats/breeds
-        Returns a list of all cat breeds.
+  - Fetch All Breeds
+    - GET /api/cats/breeds
+      Returns a list of all cat breeds.
 
-    - Add a Cat to Favorites
-        POST /api/cats/favorites?imageId={imageId}&userId={userId}
-        Adds a cat image to the user's favorites.
+  - Add a Cat to Favorites
+    - POST /api/cats/favorites?imageId={imageId}&userId={userId}
+      Adds a cat image to the user's favorites.
 
     - Remove a Favorite Cat
         DELETE /api/cats/favorites/{favoriteId}
