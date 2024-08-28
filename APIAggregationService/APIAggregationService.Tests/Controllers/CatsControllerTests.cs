@@ -16,7 +16,7 @@ public class CatsControllerTests
         var mockCatService = new Mock<CatService>(null);
         mockCatService.Setup(x => x.GetCatsAsync()).ReturnsAsync(new List<CatDto>
         {
-            new CatDto { Id = "1", Url = "https://example.com/cat1.jpg" }
+            new CatDto { Id = "1", Url = "https://api.thecatapi.com/v1/images/cat1.jpg" }
         });
 
         var controller = new CatsController(mockCatService.Object, null, null, null);
@@ -38,7 +38,7 @@ public class CatsControllerTests
         var mockBreedService = new Mock<BreedService>(null, null);
         mockBreedService.Setup(x => x.GetBreedsAsync()).ReturnsAsync(new List<Breed>
         {
-            new Breed { Id = "1", Name = "Breed1" }
+            new Breed { Id = "1", Name = "Aegean" }
         });
 
         var controller = new CatsController(null, mockBreedService.Object, null, null);
