@@ -3,7 +3,7 @@
 ### This project is an ASP.NET Core Web API application built with .NET 8.0. It integrates with several external services to provide aggregated data through a unified API. The project includes endpoints for fetching cat images, weather data, and Spotify track/album details.
 ![Screenshot 2024-08-28 103643](https://github.com/user-attachments/assets/e92560e8-1fdd-4aac-816f-49c2f2026051)
 
-# Features
+## Features
 
 - Cat API Integration:
   - Fetch random cat images.
@@ -18,26 +18,26 @@
   - Get album details.
   - Retrieve playlist tracks.
 
-# API Endpoints
-## Cat Controller
+## API Endpoints
+### Cat Controller
 
-    Fetch Random Cat Images
+    - Fetch Random Cat Images
         GET /api/cats/images
         Returns a list of random cat images.
 
-    Fetch All Breeds
+    - Fetch All Breeds
         GET /api/cats/breeds
         Returns a list of all cat breeds.
 
-    Add a Cat to Favorites
+    - Add a Cat to Favorites
         POST /api/cats/favorites?imageId={imageId}&userId={userId}
         Adds a cat image to the user's favorites.
 
-    Remove a Favorite Cat
+    - Remove a Favorite Cat
         DELETE /api/cats/favorites/{favoriteId}
         Removes a cat image from the user's favorites.
 
-## OpenWeatherMap Controller
+### OpenWeatherMap Controller
 
     Fetch Weather Information
         GET /api/openweathermap/{city}
@@ -45,20 +45,20 @@
 
 ## Spotify Controller
 
-    Get Track Details
+    - Get Track Details
         GET /api/spotify/track/{trackId}
         Retrieves details of a specific track.
 
-    Get Album Details
+    - Get Album Details
         GET /api/spotify/album/{albumId}
         Retrieves details of a specific album.
 
-    Get Playlist Tracks
+    - Get Playlist Tracks
         GET /api/spotify/playlist/{playlistId}
         Retrieves tracks from a specific playlist.
 
-# Getting Started
-## Prerequisites
+## Getting Started
+### Prerequisites
 
     .NET 8.0 SDK
     API keys for Spotify, OpenWeatherMap, and any required services for the Cat API
