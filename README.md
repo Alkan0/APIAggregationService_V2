@@ -64,6 +64,5 @@ This project is an ASP.NET Core Web API application built with .NET 8.0. It inte
     API keys for Spotify, OpenWeatherMap and for the Cat API
     
 # Installation    
-git clone https://github.com/Alkan0/APIAggregationService_V2.git
-cd APIAggregationService_V2
-    API keys for Spotify, OpenWeatherMap, and any required services for the Cat API
+    git clone https://github.com/Alkan0/APIAggregationService_V2.git
+    cd APIAggregationService_V2
