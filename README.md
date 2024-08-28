@@ -64,8 +64,12 @@
 
 ## Installation
 ###Clone the Repository
-  - git clone https://github.com/Alkan0/APIAggregationService_V2.git
-  - cd APIAggregationService_V2
+```properties
+   git clone https://github.com/Alkan0/APIAggregationService_V2.git
+```
+```properties
+   cd APIAggregationService_V2
+```
 
 ## Install Dependencies
 
