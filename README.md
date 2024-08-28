@@ -1,22 +1,22 @@
 # ASP.NET Core Web API (.NET 8.0) - API Aggregation Service
 
-This project is an ASP.NET Core Web API application built with .NET 8.0. It integrates with several external services to provide aggregated data through a unified API. The project includes endpoints for fetching cat images, weather data, and Spotify track/album details.
+## This project is an ASP.NET Core Web API application built with .NET 8.0. It integrates with several external services to provide aggregated data through a unified API. The project includes endpoints for fetching cat images, weather data, and Spotify track/album details.
 ![Screenshot 2024-08-28 103643](https://github.com/user-attachments/assets/e92560e8-1fdd-4aac-816f-49c2f2026051)
 
 # Features
 
 - Cat API Integration:
-        Fetch random cat images.
-        Retrieve a list of cat breeds.
-        Add or remove favorite cat images.
+  - Fetch random cat images.
+  - Retrieve a list of cat breeds.
+  - Add or remove favorite cat images.
 
-  - Weather API Integration:
-        Fetch weather information based on city names using OpenWeatherMap.
+- Weather API Integration:
+  - Fetch weather information based on city names using OpenWeatherMap.
 
-  - Spotify API Integration:
-        Get track details.
-        Get album details.
-        Retrieve playlist tracks.
+- Spotify API Integration:
+  - Get track details.
+  - Get album details.
+  - Retrieve playlist tracks.
 
 # API Endpoints
 ## Cat Controller
