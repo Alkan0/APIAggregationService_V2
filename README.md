@@ -19,7 +19,7 @@ This project is an ASP.NET Core Web API application built with .NET 8.0. It inte
         Retrieve playlist tracks.
 
 # API Endpoints
-# Cat Controller
+## Cat Controller
 
     Fetch Random Cat Images
         GET /api/cats/images
@@ -37,13 +37,13 @@ This project is an ASP.NET Core Web API application built with .NET 8.0. It inte
         DELETE /api/cats/favorites/{favoriteId}
         Removes a cat image from the user's favorites.
 
-# OpenWeatherMap Controller
+## OpenWeatherMap Controller
 
     Fetch Weather Information
         GET /api/openweathermap/{city}
         Retrieves weather information for the specified city.
 
-# Spotify Controller
+## Spotify Controller
 
     Get Track Details
         GET /api/spotify/track/{trackId}
@@ -58,18 +58,18 @@ This project is an ASP.NET Core Web API application built with .NET 8.0. It inte
         Retrieves tracks from a specific playlist.
 
 # Getting Started
-# Prerequisites
+## Prerequisites
 
     .NET 8.0 SDK
     API keys for Spotify, OpenWeatherMap, and any required services for the Cat API
 
-# Installation
+## Installation
 
     Clone the Repository
         git clone https://github.com/yourusername/your-repo-name.git
         cd your-repo-name
 
-# Install Dependencies
+## Install Dependencies
 
     Restore the NuGet packages:
         dotnet restore
@@ -78,7 +78,7 @@ This project is an ASP.NET Core Web API application built with .NET 8.0. It inte
         Update the Program.cs file with your API keys.
         Configure the API keys for Spotify, OpenWeatherMap, and other required services.
 
-# Running the Application locally
+## Running the Application locally
 
     dotnet build
     dotnet run
