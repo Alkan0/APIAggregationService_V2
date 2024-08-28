@@ -59,15 +59,13 @@
 
 ## Getting Started
 ### Prerequisites
-
-    .NET 8.0 SDK
-    API keys for Spotify, OpenWeatherMap, and any required services for the Cat API
+- .NET 8.0 SDK
+- API keys for Spotify, OpenWeatherMap, and any required services for the Cat API
 
 ## Installation
-
-    Clone the Repository
-        git clone https://github.com/yourusername/your-repo-name.git
-        cd your-repo-name
+###Clone the Repository
+  - git clone https://github.com/Alkan0/APIAggregationService_V2.git
+  - cd APIAggregationService_V2
 
 ## Install Dependencies
 
