@@ -63,45 +63,54 @@
 - API keys for Spotify, OpenWeatherMap, and any required services for the Cat API
 
 ## Installation
-###Clone the Repository
-   ```git clone https://github.com/Alkan0/APIAggregationService_V2.git
-  ```
-   ```cd APIAggregationService_V2
+### Clone the Repository
+```bash
+git clone https://github.com/Alkan0/APIAggregationService_V2.git
+cd APIAggregationService_V2
+```
 
 ## Install Dependencies
-
-    Restore the NuGet packages:
-        dotnet restore
-
-    Configuration
-        Update the Program.cs file with your API keys.
-        Configure the API keys for Spotify, OpenWeatherMap, and other required services.
+- Restore the NuGet packages:
+```bash
+dotnet restore
+```
+## Configuration
+#### Update the Program.cs file with your API keys.
+#### Configure the API keys for Spotify, OpenWeatherMap, and other required services.
 
 ## Running the Application locally
-
-    dotnet build
-    dotnet run
+```bash
+dotnet build
+dotnet run
+```
 
 ### Access the Endpoints
 
-        Cat Images: GET /api/cats/images
+- Cat Images: 
+    - GET /api/cats/images
 
-        Breeds: GET /api/cats/breeds
+- Breeds: 
+    - GET /api/cats/breeds
 
-        Add Favorite: POST /api/cats/favorites?imageId={imageId}&userId={userId}
+- Add Favorite: 
+    - POST /api/cats/favorites?imageId={imageId}&userId={userId}
 
-        Remove Favorite: DELETE /api/cats/favorites/{favoriteId}
+- Remove Favorite: 
+    - DELETE /api/cats/favorites/{favoriteId}
 
-        Weather Information: GET /api/openweathermap/{city}
+- Weather Information: 
+    - GET /api/openweathermap/{city}
 
-        Track Details: GET /api/spotify/track/{trackId}
+- Track Details: 
+    - GET /api/spotify/track/{trackId}
 
-        Album Details: GET /api/spotify/album/{albumId}
+- Album Details: 
+    - GET /api/spotify/album/{albumId}
 
-        Playlist Tracks: GET /api/spotify/playlist/{playlistId}
+- Playlist Tracks: 
+    - GET /api/spotify/playlist/{playlistId}
 
-# Contributing
+## Contributing
 
-Feel free to submit issues or pull requests. 
+### Feel free to submit issues or pull requests. 
 
-This project is licensed under the MIT License - see the LICENSE file for details.
