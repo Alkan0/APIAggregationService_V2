@@ -11,7 +11,7 @@ public class OpenWeatherMapService : IOpenWeatherMapService
 {
     private readonly HttpClient _httpClient;
     private readonly ILogger<OpenWeatherMapService> _logger;
-    private const string ApiKey = "d5b323ff39bcb48fbaa920c9ae4535b9"; 
+    private const string ApiKey = "your-api-key"; 
 
     public OpenWeatherMapService(HttpClient httpClient, ILogger<OpenWeatherMapService> logger)
     {
