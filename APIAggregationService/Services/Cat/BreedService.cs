@@ -9,7 +9,7 @@ public class BreedService
 {
     private readonly HttpClient _httpClient;
     private readonly IMemoryCache _cache;
-    private readonly string _apiKey = "live_tm3klEQzLeHeVhNvd2bSNZxJJsJpFirmRRrZugOpbRbxqYrmTlhB2wtgNvFf6cHN";
+    private readonly string _apiKey = "your-api-key";
     private readonly string _baseUri = "https://api.thecatapi.com/v1/";
 
     public BreedService(HttpClient httpClient)
