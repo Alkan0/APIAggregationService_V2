@@ -76,7 +76,7 @@ cd APIAggregationService_V2
 dotnet restore
 ```
 ## Configuration
-#### Update the Program.cs file with your API keys.
+#### Update the Program.cs, appsettings.json and Cat's services files with your API keys.
 #### Configure the API keys for Spotify, OpenWeatherMap, and other required services.
 
 ## Running the Application locally
